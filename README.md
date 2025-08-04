@@ -5,7 +5,7 @@ This project implements a customizable RAG system that integrates document retri
 
 ## 🎥 Demo Video
 
-👉 [Click here to watch the demo on YouTube]([https://www.youtube.com/watch?v=NHYiGuLC9Bc](https://youtu.be/MtnL3I1NFtw))
+👉 [Click here to watch the demo on YouTube](https://youtu.be/MtnL3I1NFtw?si=TlThLm4wmxsYYp4n)
 
 ## 🔍 Overview
 
